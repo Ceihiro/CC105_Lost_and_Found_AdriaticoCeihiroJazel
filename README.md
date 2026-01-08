@@ -28,7 +28,7 @@ A database system to manage lost and found items in a shopping mall. The system 
 
 ## Entity Relationship Diagram
 
-![Mall Lost and Found ERD](ERD/Mall Lost & Found System.png)
+![Mall Lost & Found System ERD](ERD/Mall Lost & Found System.png)
 
 ---
 
@@ -127,3 +127,4 @@ Complete item info with person and location
 - **Normalization:** 3NF
 
 - **Constraints:** Primary Keys, Foreign Keys, NOT NULL, UNIQUE, DEFAULT
+
