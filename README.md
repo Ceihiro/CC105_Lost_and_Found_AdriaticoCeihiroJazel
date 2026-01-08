@@ -28,7 +28,7 @@ A database system to manage lost and found items in a shopping mall. The system 
 
 ## Entity Relationship Diagram
 
-![Mall Lost & Found System ERD](ERD/Mall Lost & Found System.png)
+![Mall Lost & Found System ERD](ERD/Mall%20Lost%20%26%20Found%20System.png)
 
 ---
 
