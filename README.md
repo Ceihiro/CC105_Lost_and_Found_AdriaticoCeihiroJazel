@@ -80,23 +80,23 @@ Claim requests for items
 
 ### Query 1 - Find Found Items (WHERE)
 Find all items with "Found" status
-![Query 1 Result](screenshots/query1.png)
+![Query 1 Result](Screenshots/query1.png)
 
 ### Query 2 - Sort by Date (ORDER BY)
 Show items sorted by newest first
-![Query 2 Result](screenshots/query2.png)
+![Query 2 Result](Screenshots/query2.png)
 
 ### Query 3 - Count by Category (GROUP BY)
 Count how many items in each category
-![Query 3 Result](screenshots/query3.png)
+![Query 3 Result](Screenshots/query3.png)
 
 ### Query 4 - Items with Locations (JOIN)
 Show items with their location details
-![Query 4 Result](screenshots/query4.png)
+![Query 4 Result](Screenshots/query4.png)
 
 ### Query 5 - Items with Reporter Info (Multiple JOIN)
 Complete item info with person and location
-![Query 5 Result](screenshots/query5.png)
+![Query 5 Result](Screenshots/query5.png)
 
 ---
 
@@ -125,4 +125,5 @@ Complete item info with person and location
 - **Tables:** 5
 - **Total Records:** 28
 - **Normalization:** 3NF
+
 - **Constraints:** Primary Keys, Foreign Keys, NOT NULL, UNIQUE, DEFAULT
