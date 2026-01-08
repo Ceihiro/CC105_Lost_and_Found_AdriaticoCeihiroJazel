@@ -128,3 +128,4 @@ Complete item info with person and location
 
 - **Constraints:** Primary Keys, Foreign Keys, NOT NULL, UNIQUE, DEFAULT
 
+
