@@ -113,7 +113,7 @@ Complete item info with person and location
 
 1. Open MySQL Workbench
 2. File - Open SQL Script
-3. Select `mall_lost_found.sql`
+3. Select `Mall_Lost_and_Found_DB.sql`
 4. Click Execute 
 5. Database created with sample data
 
